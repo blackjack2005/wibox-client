@@ -10,4 +10,4 @@ Features:
 6. Many more to come...
 
 
-<b>Has been delayed for long time.</b>
+<b>Has been delayed for long time.</b> How to push to github?
